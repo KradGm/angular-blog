@@ -17,6 +17,10 @@
   justify-content: center;
   align-items: center;
 }
+.small-card-title h1 a{
+ font-size: 15px;
+ font-weight: bold;
+}
 .container-small-card-separator{
   margin-top: 10px;
 }
