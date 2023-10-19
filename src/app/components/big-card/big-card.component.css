@@ -9,6 +9,9 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
+.container-big-card{
+  align-items: center;
+}
 
 .big-card-title h1 {
   margin-top: 10px;
@@ -23,6 +26,8 @@
 }
 
 .big-card-img img{
+  justify-content: center;
   width: 100%;
-  min-width: 400px;
+  max-width: 400px;
+  min-width: 300px;
 }
